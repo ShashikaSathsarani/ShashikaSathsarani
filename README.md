@@ -2,7 +2,7 @@
 
 
 👉I am a second-year Computer Engineering undergraduate at the Faculty of Engineering, University of Peradeniya
-👉I’m passionate about building interactive web apps and smart kiosks.  
+👉I’m passionate about building interactive web apps.  
 👉I also enjoy painting and creative design.  
 👉Currently, I’m exploring React, Kotlin, and AI integrations.  
 👉My goal is to merge technology and creativity to craft meaningful user experiences.

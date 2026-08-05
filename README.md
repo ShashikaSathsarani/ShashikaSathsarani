@@ -1,11 +1,11 @@
-##  Hi, I'm Shashika Sathsarani  
 
+# Hi, I'm Shashika Sathsarani  
 Computer Engineering undergraduate with strong interests in networking, web development, and software development. Skilled in 
 problem-solving, learning new technologies, and developing efficient solutions for real-world challenges. Passionate about innovation, 
 continuous learning, exploring different experiences and combining technical knowledge with creativity and design thinking to build 
 impactful and user-focused real-world systems. 
 ---
-<h2 align="center">My Tech Stack</h2> 
+<h2 align="center">My Tech Stack 💻</h2> 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" width="50" height="50"/>
@@ -16,7 +16,7 @@ impactful and user-focused real-world systems.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="50" height="50"/>
+  <img src="https://img.icons8.com/ios/50/ffffff/github.png" alt="github" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="postman" width="50" height="50"/>
@@ -26,10 +26,11 @@ impactful and user-focused real-world systems.
 
 ## 📊 GitHub Stats
 ![GitHub Streak](https://streak-stats.demolab.com?user=ShashikaSathsarani&theme=radical&border_radius=10)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShashikaSathsarani&layout=compact&theme=radical)  
----
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShashikaSathsarani&layout=compact&theme=radical)
 
 ---
+---
+## 📫 Connect With Me
 
 <div align="center">
 

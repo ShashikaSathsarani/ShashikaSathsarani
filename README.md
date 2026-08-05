@@ -1,12 +1,10 @@
 # 👋 Hi, I'm Shashika Sathsarani  
 
 
-👉I am a second-year Computer Engineering undergraduate at the Faculty of Engineering, University of Peradeniya
-👉I’m passionate about building interactive web apps.  
-👉I also enjoy painting and creative design.  
-👉Currently, I’m exploring React, Kotlin, and AI integrations.  
-👉My goal is to merge technology and creativity to craft meaningful user experiences.
-Open to collaborations in **Web Dev / AI Projects**
+Computer Engineering undergraduate with strong interests in networking, web development, and software development. Skilled in 
+problem-solving, learning new technologies, and developing efficient solutions for real-world challenges. Passionate about innovation, 
+continuous learning, exploring different experiences and combining technical knowledge with creativity and design thinking to build 
+impactful and user-focused real-world systems. 
 
 ---
 
